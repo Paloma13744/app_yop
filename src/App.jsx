@@ -1,11 +1,11 @@
-
+import './app.scss';
 import React from 'react';
+import Home from './home/Home';
 
 const App = () => {
   return (
-    <div>
-      <h1>Hello World!</h1>
-    </div>
+  <Home></Home>
+    
   );
 }
 
