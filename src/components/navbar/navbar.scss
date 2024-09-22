@@ -1,3 +1,71 @@
-.navbar{
+.navbar {
+    width: 100%;
     color: white;
+    font-size: 14px;
+    position: fixed;
+    top:0;
+    z-index: 999;
+    background: linear-gradient(to top,tranparent 0%, rgb(0,0,0,0.3),50%);
+
+
+    .container {
+        padding: 0px 50px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 85px;
+
+
+        .esquerda {
+            display: flex;
+            align-items: center;
+            img {
+                height: 78px;
+            }
+            span{
+                margin-right: 30px;
+                cursor: pointer;
+            }
+
+        }
+        .direita {
+            display: flex;
+            align-items: center;
+
+            .icon{
+                margin: 0px 15px;
+                cursor: pointer;
+            }
+
+            img {
+                height: 30px;
+                width: 30px;
+                border-radius: 5px;
+                object-fit: cover;
+                cursor: pointer;
+
+            }
+            .profile{
+                .options{
+                    display: none;   // Coloca as opções dentro do display de opções
+                    background-color: var(--main-color);
+                    border-radius: 5px;
+                }
+                span{
+                    padding: 10px;
+                    cursor: pointer;
+                }
+
+                &:hover{
+                    .options{
+                        display: flex;
+                        flex-direction: column;
+                        position: absolute;
+                    }
+                }
+            }
+
+        }
+
+    }
 }
