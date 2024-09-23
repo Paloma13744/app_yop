@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className='home'>
       <Navbar></Navbar>   
-      <Featured></Featured>
+      <Featured type= "filme"></Featured>
 
     </div>
   )

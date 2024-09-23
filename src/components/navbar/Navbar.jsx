@@ -20,7 +20,7 @@ const Navbar = () =>  {
             <span>Home</span>
             <span>Séries</span>
             <span>Filmes</span>
-            <span>Filmes Populares</span>
+            <span>Novos lançamentos</span>
             <span>Minha lista</span>
 
             <div className='direita'>
