@@ -7,11 +7,12 @@ const Navbar = () =>  {
   const[isScrolled , setIsScrolled] = useState(false); // Scrool da tela  (topo , estado inicial)
 
   window.onscroll = () =>{   // função para rolagem do scrool
+    setIsScrolled(window.scrollY == 0 ? false : true);
+    return() =>  (window.onscroll = null)
+  };
 
-  }
-  
   return (
-    <div className='navbar'>
+    <div className= {isScrolled ? 'navbar scrolled':'navbar'}>
         <div className='container'>
             <div className='esquerda'>
                 <img src= {logo} alt ="Logo da Yopflix"  ></img>
