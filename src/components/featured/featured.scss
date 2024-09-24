@@ -4,8 +4,27 @@
 
     .categoria{
         position: absolute;
-        top: 80px;
+        top: 110px;
         left: 50px;
+        font-size: 28px;
+        font-weight: 500;
+        color: white;
+        display: flex;
+        align-items: center;
+        font-family: 'Roboto', sans-serif;
+
+        select{
+            cursor: pointer;
+            background-color: var(--main-color);
+            border: 1px solid white;
+            color: white;
+            margin-left: 20px;
+            padding: 5px;
+            font-family: 'Roboto', sans-serif;
+
+
+        }
+
         
     }
 
