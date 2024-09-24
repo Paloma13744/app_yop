@@ -7,17 +7,23 @@ export default function Lista() {
     <div className='lista'>
       <span className='tituloLista'>Continuar assistindo</span>
       <div className='wrapper'>
-        <ArrowBackIosOutlined></ArrowBackIosOutlined>  
+        <ArrowBackIosOutlined className='sliderArrow esquerda'></ArrowBackIosOutlined>  
         <div className='container'>
           <ListaItem></ListaItem>
           <ListaItem></ListaItem>
           <ListaItem></ListaItem>
-          <ListaItem></ListaItem>
-          
-         
-
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+          <ListaItem></ListaItem> 
+        
+     
         </div>
-        <ArrowForwardIosOutlined></ArrowForwardIosOutlined>
+        <ArrowForwardIosOutlined className='sliderArrow direita'></ArrowForwardIosOutlined>
       </div>
     </div>
   )

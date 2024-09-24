@@ -4,7 +4,42 @@
 
     .tituloLista{
         color: white;
-        
+        font-size: 20px;
+        font-weight: 500;
+        margin-left: 50px;
+    }
+
+    .wrapper{ //Filmes ficam horizontalmente alinhados
+        position: relative;  
+        .sliderArrow {
+            width: 50px;
+            height: 100%;
+            background-color: rgb(22, 22, 22,0.5);
+            color: white;
+            position: absolute;
+
+            &.esquerda{
+                left:0;
+
+            }
+            &.direita{
+                right: 0;
+            }
+
+
+        }
+
+
+
+
+
+        .container{
+            margin-left: 50px;
+            display: flex;
+            width: max-content;
+
+        }
+
     }
 
 }
