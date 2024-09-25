@@ -1,9 +1,12 @@
 import  './listaItem.scss'
+import img from './imagens/matriz_tela.png'
+
 
 export default function ListaItem() {
   return (
     <div className='listaItem'>
-      item
+      <img src= {img} alt=''/>
+      
     </div>
   )
 }
