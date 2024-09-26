@@ -36,16 +36,16 @@ export default function Lista() {
         style={{display: !isMoved && "none"}} ></ArrowBackIosOutlined>  
         
         <div className='container' ref = {listRef}>
-          <ListaItem></ListaItem>   {/* 10 slides em cada */}
-          <ListaItem></ListaItem>
-          <ListaItem></ListaItem>
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
-          <ListaItem></ListaItem> 
+          <ListaItem index={0}></ListaItem>   {/* 10 slides em cada */}
+          <ListaItem index={1}></ListaItem>
+          <ListaItem index={2}></ListaItem>
+          <ListaItem index={3}></ListaItem> 
+          <ListaItem index={4}></ListaItem> 
+          <ListaItem index={5}></ListaItem> 
+          <ListaItem index={6}></ListaItem> 
+          <ListaItem index={7}></ListaItem> 
+          <ListaItem index={8}></ListaItem> 
+          <ListaItem index={9}></ListaItem> 
           
      
         </div>
