@@ -4,13 +4,20 @@
 A aplicação foi construída usando as seguintes tecnologias:**
 
 React Native para a criação da interface do usuário
+
 SCSS para o estilo e design
+
 MongoDB para o banco de dados
+
 Node.js para a construção do backend e API
-Funcionalidades Principais
+
+## Funcionalidades Principais
 Catálogo de filmes e séries
+
 Pesquisa de títulos
+
 Sistema de categorias e recomendações
+
 Streaming de vídeos diretamente no app
 
 ## Como Executar o Projeto
@@ -20,6 +27,7 @@ Primeiro, clone o repositório do projeto para sua máquina local:
 ```bash
 Copiar código
 git clone git@github.com:Paloma13744/app_yop.git
+```
 2. Navegar até o Diretório do Projeto
 Após clonar o repositório, navegue até a pasta do projeto:
 
