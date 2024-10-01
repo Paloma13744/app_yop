@@ -58,7 +58,9 @@ Isso iniciará a aplicação, e você poderá acessá-la no navegador, geralment
 
 ## Tecnologias Utilizadas
 
-- ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) **React Native**: para o desenvolvimento da interface do usuário multiplataforma.
-- ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png) **SCSS**: para estilização avançada e responsiva.
-- ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**: banco de dados NoSQL para armazenamento das informações dos filmes e séries.
-- ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**: responsável pelo servidor backend e integração com o banco de dados.
+- **React Native**: para o desenvolvimento da interface do usuário multiplataforma.
+- **SCSS**: para estilização avançada e responsiva.
+- **MongoDB**: banco de dados NoSQL para armazenamento das informações dos filmes e séries.
+- **Node.js**: responsável pelo servidor backend e integração com o banco de dados.
+
+  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)               ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png)            ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)                                  ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) 
