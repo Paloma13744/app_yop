@@ -63,4 +63,9 @@ Isso iniciará a aplicação, e você poderá acessá-la no navegador, geralment
 - **MongoDB**: banco de dados NoSQL para armazenamento das informações dos filmes e séries.
 - **Node.js**: responsável pelo servidor backend e integração com o banco de dados.
 
-  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png)               ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png)            ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)                                  ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) 
+<p>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" style="margin-right: 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS Icon" style="margin-right: 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB Icon" style="margin-right: 20px;"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js Icon"/>
+</p>
