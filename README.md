@@ -1,4 +1,4 @@
-# YopFlix - Filmes e Séries Gratuitas
+## 🎬 YopFlix - Filmes e Séries Gratuitas 
 **Descrição do Projeto:**
 
 **YopFlix é um projeto que visa desenvolver uma plataforma online para assistir filmes e séries gratuitamente. 
@@ -12,7 +12,7 @@ A aplicação foi construída usando as seguintes tecnologias:**
 
 - Node.js para a construção do backend e API
 
-## Funcionalidades Principais
+## Funcionalidades Principais:
 - Catálogo de filmes e séries
 
 - Pesquisa de títulos
@@ -21,7 +21,7 @@ A aplicação foi construída usando as seguintes tecnologias:**
 
 - Streaming de vídeos diretamente no app
 
-## Como Executar o Projeto
+## Como Executar o Projeto:
 **1. Clonar o Repositório**
 Primeiro, clone o repositório do projeto para sua máquina local:
 
@@ -54,12 +54,11 @@ npm start
 ```
 Isso iniciará a aplicação, e você poderá acessá-la no navegador, geralmente em **http://localhost:3000**
 
+## Tecnologias Utilizadas:
+
 ## Tecnologias Utilizadas
 
-**React Native:** para o desenvolvimento da interface do usuário multiplataforma.
-
-**SCSS:** para estilização avançada e responsiva.
-
-**MongoDB:** banco de dados NoSQL para armazenamento das informações dos filmes e séries.
-
-**Node.js:** responsável pelo servidor backend e integração com o banco de dados.
+- ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) **React Native**: para o desenvolvimento da interface do usuário multiplataforma.
+- ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png) **SCSS**: para estilização avançada e responsiva.
+- ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**: banco de dados NoSQL para armazenamento das informações dos filmes e séries.
+- ![Node.js Icon](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**: responsável pelo servidor backend e integração com o banco de dados.
