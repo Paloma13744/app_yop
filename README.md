@@ -1,8 +1,9 @@
 ## 🎬 YopFlix - Filmes e Séries Gratuitas 
-**Descrição do Projeto:**
+**Descrição:**
 
-**YopFlix é um projeto que visa desenvolver uma plataforma online para assistir filmes e séries gratuitamente. 
-A aplicação foi construída usando as seguintes tecnologias:**
+**YopFlix é um projeto que visa desenvolver uma plataforma online para assistir filmes e séries gratuitamente.**
+
+**A aplicação foi construída usando as seguintes tecnologias:**
 
 - React Native para a criação da interface do usuário
 
@@ -55,8 +56,6 @@ npm start
 Isso iniciará a aplicação, e você poderá acessá-la no navegador, geralmente em **http://localhost:3000**
 
 ## Tecnologias Utilizadas:
-
-## Tecnologias Utilizadas
 
 - **React Native**: para o desenvolvimento da interface do usuário multiplataforma.
 - **SCSS**: para estilização avançada e responsiva.
