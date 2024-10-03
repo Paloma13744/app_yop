@@ -47,6 +47,10 @@ npm install react-scripts@latest --legacy-peer-deps
 npm install react-scripts@latest --force
 ```
 
+```bash
+yarn add --dev @babel/plugin-proposal-private-property-in-object
+```
+
 **4. Executar o Projeto**
 Após a instalação das dependências, execute o seguinte comando para iniciar o projeto:
 
